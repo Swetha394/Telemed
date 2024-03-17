@@ -1,1 +1,1 @@
-# Telemed
+# Telemedicine project
